@@ -2,7 +2,7 @@
 
 <?php include('includes/header.php'); ?>
 
-<main class="container p-4"></main>
+<main class="container p-4">
   <div class="row">
     <div class="col-md-4">
       <!-- MESSAGES -->
@@ -30,7 +30,7 @@
       </div>
     </div>
     <div class="col-md-8">
-      <table class="table-bordered">
+      <table class="table-bordered w-100">
         <thead>
           <tr>
             <th>Title</th>
